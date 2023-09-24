@@ -1,0 +1,6 @@
+#define ORGAN_SLOT_HEAD_SUBDERMAL			"Head Subdermal Plates"
+#define ORGAN_SLOT_CHEST_SUBDERMAL			"Chest Subdermal Plates"
+#define ORGAN_SLOT_LEFT_ARM_SUBDERMAL		"Left Arm Subdermal Plates"
+#define ORGAN_SLOT_RIGHT_ARM_SUBDERMAL		"Right Arm Subdermal Plates"
+#define ORGAN_SLOT_LEFT_LEG_SUBDERMAL		"Left Leg Subdermal Plates"
+#define ORGAN_SLOT_RIGHT_LEG_SUBDERMAL		"Right Leg Subdermal Plates"
